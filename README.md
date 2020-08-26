@@ -5,9 +5,11 @@ To run the code :
 2.Run the dbsocket-server.
 3.Run the dbsocket-client.
 
+Short gif example:
 <p float="left">
  <img src="https://user-images.githubusercontent.com/31563236/91347504-23ab9680-e7eb-11ea-91bd-54097d3684c1.gif" height="400" width="450">
  </p>
+ Image:
  <img src="https://raw.githubusercontent.com/Shimshon21/DBSearch-window/master/database%20example.PNG" height="400" width="450">
 
 
