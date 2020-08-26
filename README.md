@@ -7,5 +7,5 @@ To run the code :
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/Shimshon21/DBSearch-window/master/database%20example.PNG" height="400" width="450">
-  <img src="  https://user-images.githubusercontent.com/31563236/91347504-23ab9680-e7eb-11ea-91bd-54097d3684c1.gif" height="400" width="450">
+  <img src="https://user-images.githubusercontent.com/31563236/91347504-23ab9680-e7eb-11ea-91bd-54097d3684c1.gif" height="400" width="450">
 
